@@ -27,7 +27,7 @@ body{
    display: grid;
    grid-template-columns: repeat(4,1fr);
    grid-template-rows: auto auto;
-   margin-top: 250px;
+   margin-top: 20px;
 }
 .box{
     /* border: 2px solid black; */
